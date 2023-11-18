@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "MulishBold";
+  src: local("vide360/fonts/MulishBold.ttf");
+}
+
+h1 {
+  background-color: none;
+}
+
+/* h1 {
+  font-family: "YourFontName", sans-serif;
+}
+
+
+
+h3 {
+  font-family: "YourFontName", sans-serif;
+}
+
+h4 {
+  font-family: "YourFontName", sans-serif;
+}
+
+h5 {
+  font-family: "YourFontName", sans-serif;
+}
+
+h6 {
+  font-family: "YourFontName", sans-serif;
+}
+
+li {
+  font-family: "YourFontName", sans-serif;
+}
+
+p {
+  font-family: "YourFontName", sans-serif;
+} */
